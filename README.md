@@ -73,6 +73,9 @@ Total score = 1,222,217
 
 HashCodeExtendedRound Rank = 37 worldwide, 1st place in Palestine. 
 
+## Team Members
+Our team consisted of: Bader Anini, Ahmad Yahya, Ihab Abdelkarim, Hamed Hijazi.
+
 
 
 
